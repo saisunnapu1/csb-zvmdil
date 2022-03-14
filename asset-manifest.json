@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://saisunnapu1.github.io/csb-zvmdil/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://saisunnapu1.github.io/csb-zvmdil/static/js/main.58da62ca.chunk.js",
+    "main.js.map": "https://saisunnapu1.github.io/csb-zvmdil/static/js/main.58da62ca.chunk.js.map",
+    "runtime-main.js": "https://saisunnapu1.github.io/csb-zvmdil/static/js/runtime-main.19b8f766.js",
+    "runtime-main.js.map": "https://saisunnapu1.github.io/csb-zvmdil/static/js/runtime-main.19b8f766.js.map",
+    "static/js/2.e36c32d2.chunk.js": "https://saisunnapu1.github.io/csb-zvmdil/static/js/2.e36c32d2.chunk.js",
+    "static/js/2.e36c32d2.chunk.js.map": "https://saisunnapu1.github.io/csb-zvmdil/static/js/2.e36c32d2.chunk.js.map",
+    "index.html": "https://saisunnapu1.github.io/csb-zvmdil/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://saisunnapu1.github.io/csb-zvmdil/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.e36c32d2.chunk.js.LICENSE.txt": "https://saisunnapu1.github.io/csb-zvmdil/static/js/2.e36c32d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19b8f766.js",
+    "static/js/2.e36c32d2.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.58da62ca.chunk.js"
+  ]
+}
